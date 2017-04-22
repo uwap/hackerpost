@@ -1,5 +1,5 @@
 {-# LANGUAGE TemplateHaskell #-}
-module Main where
+module Types where
 
 import Protolude
 import Lens
